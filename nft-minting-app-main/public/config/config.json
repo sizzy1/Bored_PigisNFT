@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3b5eD6CEacC2E579843B0C4B0bE8de83C72D45B0",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3b5ed6ceacc2e579843b0c4b0be8de83c72d45b0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored_PigisNFT",
+  "SYMBOL": "BPNFT",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 18000000000000000000,
+  "DISPLAY_COST": 18,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-pigisnft",
+  "SHOW_BACKGROUND": true
+}
